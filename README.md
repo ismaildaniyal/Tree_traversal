@@ -40,10 +40,10 @@ All core functions have been implemented and successfully passed all test cases,
 - C Compiler (GCC recommended)
 - Linux/macOS (recommended)
 
-
 ![Tree Traversal Visualization](https://github.com/ismaildaniyal/Tree_traversal/blob/main/Screenshot%20from%202025-02-26%2011-20-09.png)
 
 
+![Tree Traversal Visualization](https://github.com/ismaildaniyal/Tree_traversal/blob/main/Screenshot%20from%202025-02-26%2011-20-12.png)
 
 
 ## License
