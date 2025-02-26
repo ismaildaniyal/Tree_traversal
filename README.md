@@ -2,8 +2,6 @@
 
 Testy is a command-line tool designed to implement and test tree traversal and pathfinding algorithms efficiently. It includes a robust testing framework to validate traversal logic in various data structures.
 
-![Tree Traversal Visualization](https://github.com/ismaildaniyal/Tree_traversal/blob/main/Screenshot%20from%202025-02-26%2011-20-09.png)
-
 ## Features
 - Implements **Breadth-First Search (BFS)** for tree traversal
 - Uses **queue-based traversal** for efficient node processing
@@ -41,6 +39,12 @@ All core functions have been implemented and successfully passed all test cases,
 ## Requirements
 - C Compiler (GCC recommended)
 - Linux/macOS (recommended)
+
+
+![Tree Traversal Visualization](https://github.com/ismaildaniyal/Tree_traversal/blob/main/Screenshot%20from%202025-02-26%2011-20-09.png)
+
+
+
 
 ## License
 MIT License
